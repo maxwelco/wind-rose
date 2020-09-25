@@ -1,2 +1,2 @@
-# wind-rose
-Wind rose in R
+# Wind-Rose
+Wind frequency, direction and speed.
